@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@codesandbox/sdk": "^0.0.10"
+  }
+}
